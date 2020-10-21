@@ -17,37 +17,37 @@ Data was collected from the Perspective API repository and the Detox wiki page.
 ## Data and Code for Replication
 Source data from (in .tsv format) from [Figshare](https://figshare.com/projects/Wikipedia_Talk/16731):
 
-aggression.tsv
-aggression_comments.tsv
-aggression_demo.tsv
-attack.tsv
-attack_comments.tsv
-attack_demo.tsv
-toxicity.tsv
-toxicity_comments.tsv
-toxicity_demo.tsv
+- aggression.tsv
+- aggression_comments.tsv
+- aggression_demo.tsv
+- attack.tsv
+- attack_comments.tsv
+- attack_demo.tsv
+- toxicity.tsv
+- toxicity_comments.tsv
+- toxicity_demo.tsv
 
 Code for data acquisition and analysis: 
 data-512-a2.ipynb
 
 Final visualizations: 
-data-512-a2-1.png (aggression bar graph)
-data-512-a2-2.png (aggression score distribution)
-data-512-a2-3.png (aggression score bar graph)
-data-512-a2-4.png (hostile speech disagreement plot)
+- data-512-a2-1.png (aggression bar graph)
+- data-512-a2-2.png (aggression score distribution)
+- data-512-a2-3.png (aggression score bar graph)
+- data-512-a2-4.png (hostile speech disagreement plot)
 
 ## Fields
 The value of the fields from the final datasets are as follows:
 
-worker_id (int64): Provides the id of the worker providing the annotation
-rev_id (int64): Provides the id of the comment with the annotation
-gender (string): Gender of worker (male/female)
-english_first_language (int64): Indicates whether or not the worker's first language is English (0,1)
-age_group (string): Age group of the worker (under 18, 18-30, 30-45, 45-60, over 60)
-education (string): Education status of the worker (none, some, hs, bachelors, masters, doctorate, professional)
-aggression (float64): Is a comment considered aggressive by reviewer (0,1)
-aggresion_score (float64): How aggressive was the comment (-3 (most aggressive), 3 (most friendly))
-attack (float64): Is the comment considered to be a personal attack (0,1)
-toxicity (float64): Is the comment considered to be toxic (0,1)
-comment (string): Comment text
-Disputed (boolean): Were the reviewers in disagreement about whether a comment should be considered hostile speech (True, False)
+- worker_id (int64): Provides the id of the worker providing the annotation
+- rev_id (int64): Provides the id of the comment with the annotation
+- gender (string): Gender of worker (male/female)
+- english_first_language (int64): Indicates whether or not the worker's first language is English (0,1)
+- age_group (string): Age group of the worker (under 18, 18-30, 30-45, 45-60, over 60)
+- education (string): Education status of the worker (none, some, hs, bachelors, masters, doctorate, professional)
+- aggression (float64): Is a comment considered aggressive by reviewer (0,1)
+- aggresion_score (float64): How aggressive was the comment (-3 (most aggressive), 3 (most friendly))
+- attack (float64): Is the comment considered to be a personal attack (0,1)
+- toxicity (float64): Is the comment considered to be toxic (0,1)
+- comment (string): Comment text
+- Disputed (boolean): Were the reviewers in disagreement about whether a comment should be considered hostile speech (True, False)
