@@ -1,0 +1,5 @@
+# DATA 512 - Final Assignment
+Nicholas Wapstra
+
+## Goal
+With COVID-19 continuing to be a pressing issue for people across the world, I want to do a project centered around COVID-19 outcomes, specifically in Washington State. I think that having a more clear understanding about how we can predict potentially poor outcomes can be beneficial in deciding where to distribute our resources. Therefore, for my final project I would like to develop a model to predict poor COVID-19 outcomes (death percentage of the county population) by Washington State county based on known COVID-19 risk factors such as age, race/ethnicity makeup, gender distribution, income per capita, and population per square mile. I think this sort of model would work on two fronts. From a prediction standpoint, it would indicate which counties are especially susceptible to poor COVID outcomes. This type of model could also give some indication about which regressors are most significant in predicting poor outcomes. I hope to learn more about how COVID-19 is impacting Washington State counties differently based on different factors, and if this model could be applied to counties across the country.
