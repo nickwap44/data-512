@@ -1,69 +1,65 @@
-"CAINC1 Personal Income Summary: Personal Income, Population, Per Capita Personal Income"
-"Per capita personal income (Dollars) 2/" 
-"Bureau of Economic Analysis" 
-"County"
-"GeoFips","GeoName","2019"
-"06000","California",66619
-"06001","Alameda, CA",81171
-"06003","Alpine, CA",72155
-"06005","Amador, CA",45920
-"06007","Butte, CA",47860
-"06009","Calaveras, CA",51131
-"06011","Colusa, CA",51342
-"06013","Contra Costa, CA",85324
-"06015","Del Norte, CA",38445
-"06017","El Dorado, CA",69895
-"06019","Fresno, CA",45487
-"06021","Glenn, CA",49194
-"06023","Humboldt, CA",49654
-"06025","Imperial, CA",40447
-"06027","Inyo, CA",60513
-"06029","Kern, CA",41843
-"06031","Kings, CA",39433
-"06033","Lake, CA",44259
-"06035","Lassen, CA",38130
-"06037","Los Angeles, CA",65094
-"06039","Madera, CA",41267
-"06041","Marin, CA",141735
-"06043","Mariposa, CA",56354
-"06045","Mendocino, CA",52976
-"06047","Merced, CA",41077
-"06049","Modoc, CA",51088
-"06051","Mono, CA",53500
-"06053","Monterey, CA",59838
-"06055","Napa, CA",75717
-"06057","Nevada, CA",63542
-"06059","Orange, CA",71711
-"06061","Placer, CA",68936
-"06063","Plumas, CA",55910
-"06065","Riverside, CA",42418
-"06067","Sacramento, CA",55266
-"06069","San Benito, CA",55261
-"06071","San Bernardino, CA",42043
-"06073","San Diego, CA",63729
-"06075","San Francisco, CA",139405
-"06077","San Joaquin, CA",47139
-"06079","San Luis Obispo, CA",61004
-"06081","San Mateo, CA",134107
-"06083","Santa Barbara, CA",66076
-"06085","Santa Clara, CA",115997
-"06087","Santa Cruz, CA",71592
-"06089","Shasta, CA",48438
-"06091","Sierra, CA",47245
-"06093","Siskiyou, CA",48021
-"06095","Solano, CA",53505
-"06097","Sonoma, CA",66700
-"06099","Stanislaus, CA",45742
-"06101","Sutter, CA",47605
-"06103","Tehama, CA",43268
-"06105","Trinity, CA",43471
-"06107","Tulare, CA",42845
-"06109","Tuolumne, CA",48841
-"06111","Ventura, CA",64715
-"06113","Yolo, CA",56123
-"06115","Yuba, CA",43536
-"Legend / Footnotes:"
-"2/ Per capita personal income was computed using Census Bureau midyear population estimates. Estimates for 2010-2019 reflect county population estimates available as of March 2020."
-"Metropolitan Areas are defined (geographically delineated) by the Office of Management and Budget (OMB) bulletin no. 20-01 issued March 6, 2020."
-"Note-- All dollar estimates are in thousands of current dollars (not adjusted for inflation). Calculations are performed on unrounded data."
-"Last updated: November 17, 2020-- new statistics for 2019; revised statistics for 2010-2018."
+GeoFips,GeoName,2019
+6000,California,66619
+6001,"Alameda, CA",81171
+6003,"Alpine, CA",72155
+6005,"Amador, CA",45920
+6007,"Butte, CA",47860
+6009,"Calaveras, CA",51131
+6011,"Colusa, CA",51342
+6013,"Contra Costa, CA",85324
+6015,"Del Norte, CA",38445
+6017,"El Dorado, CA",69895
+6019,"Fresno, CA",45487
+6021,"Glenn, CA",49194
+6023,"Humboldt, CA",49654
+6025,"Imperial, CA",40447
+6027,"Inyo, CA",60513
+6029,"Kern, CA",41843
+6031,"Kings, CA",39433
+6033,"Lake, CA",44259
+6035,"Lassen, CA",38130
+6037,"Los Angeles, CA",65094
+6039,"Madera, CA",41267
+6041,"Marin, CA",141735
+6043,"Mariposa, CA",56354
+6045,"Mendocino, CA",52976
+6047,"Merced, CA",41077
+6049,"Modoc, CA",51088
+6051,"Mono, CA",53500
+6053,"Monterey, CA",59838
+6055,"Napa, CA",75717
+6057,"Nevada, CA",63542
+6059,"Orange, CA",71711
+6061,"Placer, CA",68936
+6063,"Plumas, CA",55910
+6065,"Riverside, CA",42418
+6067,"Sacramento, CA",55266
+6069,"San Benito, CA",55261
+6071,"San Bernardino, CA",42043
+6073,"San Diego, CA",63729
+6075,"San Francisco, CA",139405
+6077,"San Joaquin, CA",47139
+6079,"San Luis Obispo, CA",61004
+6081,"San Mateo, CA",134107
+6083,"Santa Barbara, CA",66076
+6085,"Santa Clara, CA",115997
+6087,"Santa Cruz, CA",71592
+6089,"Shasta, CA",48438
+6091,"Sierra, CA",47245
+6093,"Siskiyou, CA",48021
+6095,"Solano, CA",53505
+6097,"Sonoma, CA",66700
+6099,"Stanislaus, CA",45742
+6101,"Sutter, CA",47605
+6103,"Tehama, CA",43268
+6105,"Trinity, CA",43471
+6107,"Tulare, CA",42845
+6109,"Tuolumne, CA",48841
+6111,"Ventura, CA",64715
+6113,"Yolo, CA",56123
+6115,"Yuba, CA",43536
+Legend / Footnotes:,,
+2/ Per capita personal income was computed using Census Bureau midyear population estimates. Estimates for 2010-2019 reflect county population estimates available as of March 2020.,,
+"Metropolitan Areas are defined (geographically delineated) by the Office of Management and Budget (OMB) bulletin no. 20-01 issued March 6, 2020.",,
+Note-- All dollar estimates are in thousands of current dollars (not adjusted for inflation). Calculations are performed on unrounded data.,,
+"Last updated: November 17, 2020-- new statistics for 2019; revised statistics for 2010-2018.",,
